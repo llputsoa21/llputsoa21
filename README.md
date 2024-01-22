@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Lesego Putsoa
 - 👀 I’m interested in various tech solutions
 - 🌱 I’m currently learning Software Engineering with ALX
-- 💞️ I’m looking to collaborate on different coding platforms to expand my knowledge on coding
+- 💞️ I’m looking to collaborate on different platforms to expand my knowledge on coding
 - 📫 How to reach me is through my mobile number - +27735078499
 
 <!---
